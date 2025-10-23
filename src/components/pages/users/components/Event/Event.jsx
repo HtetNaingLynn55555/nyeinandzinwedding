@@ -12,8 +12,8 @@ export default function Event() {
       key: 1,
       title: "Ceremony",
       src: "/images/ring.png",
-      time: "7:00 AM - 11:00 AM",
-      address: "Shwe Hlan Nyaung Aing",
+      time: "9:00 AM - 12:00 AM",
+      address: "Pyin Oo Lwin",
       icon: <MdAccessAlarms />,
     },
 
@@ -21,8 +21,8 @@ export default function Event() {
       key: 2,
       title: "Wedding Party",
       src: "/images/plate.png",
-      time: "7:00 AM - 11:00 AM",
-      address: " Shwe Hlan Nyaung Aing ",
+      time: "9:00 AM - 12:00 AM",
+      address: " Pyin Oo Lwin ",
       icon: <MdAccessAlarms />,
     },
 
@@ -30,8 +30,8 @@ export default function Event() {
       key: 3,
       title: "Photography",
       src: "/images/camera.png",
-      time: "7:00 AM - 11:00 AM",
-      address: " Shwe Hlan Nyaung Aing ",
+      time: "9:00 AM - 12:00 AM",
+      address: " Pyin Oo Lwin",
       icon: <MdAccessAlarms />,
     },
   ];

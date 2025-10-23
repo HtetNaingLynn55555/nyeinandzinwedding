@@ -19,18 +19,18 @@ export default function EventAnnounce() {
             WHICH IS CELEBRATION ON
           </p>
           <p className="font-primary tracking-widest text-gray-900 text-3xl ">
-            2/11/2025
+            26/10/2025
           </p>
         </div>
         <div className="font-secondary text-gray-600 tracking-widest text-2xl">
-          7:00 AM - 11:00 AM
+          9:00 AM - 12:00 AM
         </div>
         <div className="flex flex-col justify-center items-center gap-3">
           <p className="font-primary text-3xl tracking-widest text-gray-900">
-            Shwe Hlan Nyaung Aing
+            Kan Oo Monastery
           </p>
           <p className="font-secondary text-gray-600 font-medium text-2xl">
-            Meiktila
+            Pyin Oo Lwin
           </p>
         </div>
       </div>
